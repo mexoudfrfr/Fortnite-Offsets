@@ -1,7 +1,9 @@
 {
   "offsets": {
-    "UWorld": "0x178D5418",
-    "UWorldXorKey": "0xFFFFFFFFDF234856uLL",
+    "UWorld": "0x17842098",
+    "UWorldXorKey": "0x97363D09ULL",
+    "ViewPortClient": "0x78",
+    "GameViewport": "0xae0",
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
@@ -21,14 +23,14 @@
     "PlayerNamePrivate": "0x348",
     "RankedProgress": "0xD8",
 
-    "OwningGameInstance": "0x250",
-    "GameState": "0x1d8",
+    "OwningGameInstance": "0x238",
+    "GameState": "0x1c0",
     "PlayerArray": "0x2C8",
 
     "PersistentLevel": "0x40",
     "Levels": "0x1E0",
 
-    "AActor": "0x208",
+    "AActor": "0x158",
     "RootComponent": "0x1B0",
     "PawnPrivate": "0x328",
 
@@ -49,10 +51,10 @@
     "CurrentVehicle": "0x2c68",
 
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x5B8",
+    "WeaponData": "0x5c8",
     "WeaponOffsetCorrection": "0x2c00",
     "AdditionalAimOffset": "0x2b80",
-    "AmmoCount": "0x10a4",
+    "AmmoCount": "0x14d4",
 
     "ProjectileSpeed": "0x2564",
     "ProjectileGravity": "0x2568",
@@ -60,7 +62,7 @@
     "HabaneroComponent": "0x948",
 
     "Spectators": "0xaa0",
-    "SpectatorArray": "0x21b0",
+    "SpectatorArray": "0x108",
 
     "TargetSourceOffset": "0x1018",
     "TargetSourceOffsetWhileTargeting": "0x1048",
