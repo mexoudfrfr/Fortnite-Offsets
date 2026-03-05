@@ -5,7 +5,7 @@
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
-    "PlayerCameraManager": "0x360",
+    "PlayerCameraManager": "0x368",
     "AcknowledgedPawn": "0x358",
     "PlayerState": "0x2D0",
     "TeamIndex": "0x11B1",
@@ -25,8 +25,8 @@
     "GameState": "0x1c0",
     "PlayerArray": "0x2C8",
 
-    "PersistentLevel": "0x40",
-    "Levels": "0x1E0",
+    "PersistentLevel": "0x38",
+    "Levels": "0x1d8",
 
     "AActor": "0x158",
     "RootComponent": "0x1B0",
