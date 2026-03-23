@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x193717F0",
-    "UWorldXorKey": "0x97F199673D1F48C6uLL",
+    "UWorld": "0x19401C60",
+    "UWorldXorKey": "0x35E5647853A0CBFULL",
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
@@ -21,11 +21,11 @@
     "PlayerNamePrivate": "0x348",
     "RankedProgress": "0xD8",
 
-    "OwningGameInstance": "0x238",
-    "GameState": "0x1c0",
+    "OwningGameInstance": "0x250",
+    "GameState": "0x1d8",
     "PlayerArray": "0x2C8",
 
-    "PersistentLevel": "0x38",
+    "PersistentLevel": "0x40",
     "Levels": "0x1d8",
 
     "AActor": "0x158",
@@ -42,8 +42,8 @@
     "ComponentVelocity": "0x188",
     "LastRenderTime": "0x328",
 
-    "CameraLocation": "0x170",
-    "CameraRotation": "0x180",
+    "CameraLocation": "0x180",
+    "CameraRotation": "0x190",
     "CameraFOV": "0x3b4",
 
     "CurrentVehicle": "0x2c68",
