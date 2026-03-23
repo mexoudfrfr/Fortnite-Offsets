@@ -33,8 +33,8 @@
     "PawnPrivate": "0x328",
 
     "Mesh": "0x330",
-    "BoneArray": "0x5F0",
-    "BoneCache": "0x600",
+    "BoneArray": "0x628",
+    "BoneCache": "0x638",
 
     "ComponentToWorld": "0x1E0",
     "RelativeLocation": "0x140",
