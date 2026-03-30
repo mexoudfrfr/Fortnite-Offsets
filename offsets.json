@@ -49,7 +49,7 @@
     "CurrentVehicle": "0x2c68",
 
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x638",
+    "WeaponData": "0x678",
     "WeaponOffsetCorrection": "0x2c00",
     "AdditionalAimOffset": "0x29c0",
     "AmmoCount": "0x14d4",
@@ -59,7 +59,7 @@
 
     "HabaneroComponent": "0x948",
 
-    "Spectators": "0xaa0",
+    "Spectators": "0xAB0",
     "SpectatorArray": "0x108",
 
     "TargetSourceOffset": "0x11a8",
