@@ -49,7 +49,7 @@
     "CurrentVehicle": "0x2c68",
 
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x688",
+    "WeaponData": "0x638",
     "WeaponOffsetCorrection": "0x2c00",
     "AdditionalAimOffset": "0x2680",
     "AmmoCount": "0x14d4",
