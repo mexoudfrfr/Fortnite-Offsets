@@ -16,7 +16,7 @@
 
     "Platform": "0x440",
     "TargetedFortPawn": "0x1840",
-    "KillScore": "0x110c",
+    "KillScore": "0x11d8",
     "RebootCount": "0x1894",
     "PlayerName": "0xA08",
     "PlayerNamePrivate": "0x348",
@@ -27,7 +27,7 @@
     "PlayerArray": "0x2C8",
 
     "PersistentLevel": "0x40",
-    "Levels": "0x1d8",
+    "Levels": "0x1f0",
 
     "AActor": "0x158",
     "RootComponent": "0x1B0",
