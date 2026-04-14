@@ -16,7 +16,7 @@
 
     "Platform": "0x440",
     "TargetedFortPawn": "0x1840",
-    "KillScore": "0x11d8",
+    "KillScore": "0x11C8",
     "RebootCount": "0x1894",
     "PlayerName": "0xA08",
     "PlayerNamePrivate": "0x348",
