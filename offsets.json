@@ -9,7 +9,7 @@
     "AcknowledgedPawn": "0x358",
     "PlayerState": "0x2D0",
     "TeamIndex": "0x1211",
-    "InitialSquadSize": "0x19b0",
+    "InitialSquadSize": "0x1a00",
     "bIsDying": "0x728",
     "bIsDBNO": "0x841",
     "bIsABot": "0x2BA",
@@ -23,7 +23,7 @@
     "RankedProgress": "0xD8",
 
     "OwningGameInstance": "0x248",
-    "GameState": "0x1d8",
+    "GameState": "0x1d0",
     "PlayerArray": "0x2C8",
 
     "PersistentLevel": "0x40",
@@ -45,8 +45,8 @@
     "OverlappingBuildings": "0x1df8",
     "LastRenderTime": "0x330",
 
-    "CameraLocation": "0x178",
-    "CameraRotation": "0x188",
+    "CameraLocation": "0x170",
+    "CameraRotation": "0x180",
     "CameraFOV": "0x3b4",
 
     "CurrentVehicle": "0x2d20",
