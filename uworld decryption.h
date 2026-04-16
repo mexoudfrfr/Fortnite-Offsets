@@ -1,6 +1,6 @@
 static inline uintptr_t DecryptUworld(uint64_t v)
 {
-    return (uintptr_t)((_rotl64(v, 5) ^ 0x165D340ULL) * 0x24042FF8A5B240D7ULL - 0x235CE507FE35F6B5ULL);
+    return (uintptr_t)((uint64_t)((_rotl64((uint64_t)v, 5) ^ 0x165D340ULL) * 0x24042FF8A5B240D7ULL - 0x235CE507FE35F6B5ULL));
 }
 
 //example usage
