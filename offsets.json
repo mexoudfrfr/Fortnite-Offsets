@@ -45,8 +45,8 @@
     "OverlappingBuildings": "0x1df8",
     "LastRenderTime": "0x330",
 
-    "CameraLocation": "0x178",
-    "CameraRotation": "0x188",
+    "CameraLocation": "0x188",
+    "CameraRotation": "0x198",
     "CameraFOV": "0x3b4",
 
     "CurrentVehicle": "0x2d20",
