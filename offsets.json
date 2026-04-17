@@ -27,10 +27,10 @@
     "PlayerArray": "0x2C8",
 
     "PersistentLevel": "0x40",
-    "Levels": "0x1f0",
+    "Levels": "0x1e8",
     "SeasonLevelUIDisplay": "0x122c",
 
-    "AActor": "0x98",
+    "AActor": "0x48",
     "RootComponent": "0x1B0",
     "PawnPrivate": "0x328",
 
