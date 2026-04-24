@@ -7,7 +7,7 @@
     "PlayerController": "0x30",
     "PlayerCameraManager": "0x368",
     "AcknowledgedPawn": "0x358",
-    "PlayerState": "0x2d0",
+    "PlayerState": "0x2b8",
     "TeamIndex": "0x1211",
     "InitialSquadSize": "0x1a00",
     "bIsDying": "0x728",
