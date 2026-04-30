@@ -1,6 +1,6 @@
 {
   "offsets": {
-    "UWorld": "0x18F6E8F0",
+    "UWorld": "0x1995B6F0",
     "UWorldXorKey": "0xCF76574CULL",
 
     "LocalPlayers": "0x38",
@@ -23,7 +23,7 @@
     "RankedProgress": "0xd8",
 
     "OwningGameInstance": "0x240",
-    "GameState": "0x1c8",
+    "GameState": "0x1d0",
     "PlayerArray": "0x2c8",
 
     "PersistentLevel": "0x38",
