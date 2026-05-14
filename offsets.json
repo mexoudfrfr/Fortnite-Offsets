@@ -1,6 +1,9 @@
 {
   "offsets": {
-    "UWorld": "0x1995B6F0",
+    "UWorld": "0x19D0D570",
+    "GEngine": "0x19D0EE18",
+    "ViewportClient": "0x78",
+    "GameViewport": "0xae0",
     "UWorldXorKey": "0xCF76574CULL",
 
     "LocalPlayers": "0x38",
@@ -15,7 +18,7 @@
     "bIsABot": "0x2ba",
 
     "Platform": "0x440",
-    "TargetedFortPawn": "0x1840",
+    "TargetedFortPawn": "0x1850",
     "KillScore": "0x1228",
     "RebootCount": "0x1894",
     "PlayerName": "0xa08",
@@ -26,7 +29,7 @@
     "GameState": "0x1c8",
     "PlayerArray": "0x2c8",
 
-    "PersistentLevel": "0x38",
+    "PersistentLevel": "0x40",
     "Levels": "0x1e0",
     "SeasonLevelUIDisplay": "0x122c",
 
@@ -49,13 +52,13 @@
     "CameraRotation": "0x188",
     "CameraFOV": "0x3B4",
 
-    "CurrentVehicle": "0x2d20",
+    "CurrentVehicle": "0x2d70",
 
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x628",
-    "WeaponOffsetCorrection": "0x26e0",
-    "AdditionalAimOffset": "0x2680",
-    "AmmoCount": "0x116c",
+    "WeaponData": "0x678",
+    "WeaponOffsetCorrection": "0x26f0",
+    "AdditionalAimOffset": "0x2690",
+    "AmmoCount": "0x119c",
 
     "ProjectileSpeed": "0x238C",
     "ProjectileGravity": "0x23C0",
@@ -65,10 +68,10 @@
     "Spectators": "0xAB0",
     "SpectatorArray": "0x108",
 
-    "TargetSourceOffset": "0x10e0",
-    "TargetSourceOffsetWhileTargeting": "0x1110",
-    "TargetSourceOffsetWhileCrouched": "0x10f8",
-    "bTraceThroughWorld": "0x10c1",
+    "TargetSourceOffset": "0x1110",
+    "TargetSourceOffsetWhileTargeting": "0x1140",
+    "TargetSourceOffsetWhileCrouched": "0x1128",
+    "bTraceThroughWorld": "0x10f1",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
