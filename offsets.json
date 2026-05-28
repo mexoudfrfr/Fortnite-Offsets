@@ -58,7 +58,7 @@
     "WeaponData": "0x650",
     "WeaponOffsetCorrection": "0x26f0",
     "AdditionalAimOffset": "0x2690",
-    "AmmoCount": "0x119c",
+    "AmmoCount": "0x1214",
 
     "ProjectileSpeed": "0x238C",
     "ProjectileGravity": "0x23C0",
