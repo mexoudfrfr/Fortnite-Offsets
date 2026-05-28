@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x19D0D570",
-    "GEngine": "0x19D0EE18",
+    "UWorld": "0x1963D8F0",
+    "GEngine": "0x1963F198",
     "ViewportClient": "0x78",
     "GameViewport": "0xae0",
     "UWorldXorKey": "0xCF76574CULL",
@@ -20,7 +20,7 @@
     "Platform": "0x440",
     "TargetedFortPawn": "0x1850",
     "KillScore": "0x1228",
-    "RebootCount": "0x1894",
+    "RebootCount": "0x18ec",
     "PlayerName": "0xa08",
     "PlayerNamePrivate": "0x348",
     "RankedProgress": "0xd8",
@@ -55,7 +55,7 @@
     "CurrentVehicle": "0x2d70",
 
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x678",
+    "WeaponData": "0x650",
     "WeaponOffsetCorrection": "0x26f0",
     "AdditionalAimOffset": "0x2690",
     "AmmoCount": "0x119c",
@@ -68,10 +68,10 @@
     "Spectators": "0xAB0",
     "SpectatorArray": "0x108",
 
-    "TargetSourceOffset": "0x1110",
-    "TargetSourceOffsetWhileTargeting": "0x1140",
-    "TargetSourceOffsetWhileCrouched": "0x1128",
-    "bTraceThroughWorld": "0x10f1",
+    "TargetSourceOffset": "0x1188",
+    "TargetSourceOffsetWhileTargeting": "0x11b8",
+    "TargetSourceOffsetWhileCrouched": "0x11a0",
+    "bTraceThroughWorld": "0x116d",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
