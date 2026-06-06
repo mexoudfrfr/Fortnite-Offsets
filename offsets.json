@@ -1,9 +1,9 @@
 {
   "offsets": {
-    "UWorld": "0x1AD24020",
-    "GEngine": "0x1AD25A08",
+    "UWorld": "0x1ad24020",
+    "GEngine": "0x1ad25a08",
     "ViewportClient": "0x78",
-    "GameViewport": "0xB70",
+    "GameViewport": "0xb70",
     "UWorldXorKey": "0xCF76574CULL",
 
     "LocalPlayers": "0x38",
@@ -11,15 +11,15 @@
     "PlayerCameraManager": "0x368",
     "AcknowledgedPawn": "0x318",
     "PlayerState": "0x290",
-    "TeamIndex": "0xF11",
+    "TeamIndex": "0xf11",
     "InitialSquadSize": "0x19f8",
     "bIsDying": "0x710",
     "bIsDBNO": "0x839",
-    "bIsABot": "0x2ba",
+    "bIsABot": "0x27a",
 
     "Platform": "0x400",
     "TargetedFortPawn": "0x1630",
-    "KillScore": "0xF28",
+    "KillScore": "0xf28",
     "RebootCount": "0x18ec",
     "PlayerName": "0x9C8",
     "PlayerNamePrivate": "0x308",
@@ -29,49 +29,50 @@
     "GameState": "0x1d0",
     "PlayerArray": "0x288",
 
-    "PersistentLevel": "0x40",
+    "PersistentLevel": "0x38",
     "Levels": "0x1e8",
-    "SeasonLevelUIDisplay": "0x122c",
+    "SeasonLevelUIDisplay": "0xf2c",
 
     "AActor": "0x188",
-    "RootComponent": "0x1B0",
-    "PawnPrivate": "0x2E8",
+    "RootComponent": "0x1b0",
+    "PawnPrivate": "0x2e8",
 
-    "Mesh": "0x2F0",
+    "Mesh": "0x2f0",
     "BoneArray": "0x650",
     "BoneCache": "0x660",
+    "ActiveTransforms": "0x68",
 
     "ComponentToWorld": "0x1e0",
     "RelativeLocation": "0x140",
     "RelativeRotation": "0x158",
     "ComponentVelocity": "0x188",
-    "OverlappingBuildings": "0x1df8",
+    "OverlappingBuildings": "0x1c08",
     "LastRenderTime": "0x330",
 
     "CameraLocation": "0x170",
     "CameraRotation": "0x180",
     "CameraFOV": "0x374",
 
-    "CurrentVehicle": "0x2AC0",
+    "CurrentVehicle": "0x2ac0",
 
     "CurrentWeapon": "0x988",
-    "WeaponData": "0x5D8",
-    "WeaponOffsetCorrection": "0x4A8",
-    "AdditionalAimOffset": "0x21D0",
-    "AmmoCount": "0x10A4",
+    "WeaponData": "0x5d8",
+    "WeaponOffsetCorrection": "0x4a8",
+    "AdditionalAimOffset": "0x21d0",
+    "AmmoCount": "0x10a4",
 
-    "ProjectileSpeed": "0x238C",
-    "ProjectileGravity": "0x23C0",
+    "ProjectileSpeed": "0x238c",
+    "ProjectileGravity": "0x158",
 
     "HabaneroComponent": "0x908",
 
-    "Spectators": "0xAB0",
+    "Spectators": "0xAb0",
     "SpectatorArray": "0x108",
 
     "TargetSourceOffset": "0x1018",
     "TargetSourceOffsetWhileTargeting": "0x1048",
     "TargetSourceOffsetWhileCrouched": "0x1030",
-    "bTraceThroughWorld": "0x116d",
+    "bTraceThroughWorld": "0xff9",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
