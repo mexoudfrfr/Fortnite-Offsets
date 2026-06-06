@@ -35,9 +35,9 @@
 
     "AActor": "0x148",
     "RootComponent": "0x1B0",
-    "PawnPrivate": "0x328",
+    "PawnPrivate": "0x2E8",
 
-    "Mesh": "0x330",
+    "Mesh": "0x2F0",
     "BoneArray": "0x650",
     "BoneCache": "0x660",
 
@@ -50,7 +50,7 @@
 
     "CameraLocation": "0x170",
     "CameraRotation": "0x180",
-    "CameraFOV": "0x3B4",
+    "CameraFOV": "0x374",
 
     "CurrentVehicle": "0x2d70",
 
