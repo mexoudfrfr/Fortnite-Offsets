@@ -9,12 +9,12 @@
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
     "PlayerCameraManager": "0x368",
-    "AcknowledgedPawn": "0x358",
+    "AcknowledgedPawn": "0x318",
     "PlayerState": "0x290",
-    "TeamIndex": "0x1211",
+    "TeamIndex": "0xF11",
     "InitialSquadSize": "0x19f8",
-    "bIsDying": "0x728",
-    "bIsDBNO": "0x841",
+    "bIsDying": "0x710",
+    "bIsDBNO": "0x839",
     "bIsABot": "0x2ba",
 
     "Platform": "0x440",
@@ -27,7 +27,7 @@
 
     "OwningGameInstance": "0x248",
     "GameState": "0x1d0",
-    "PlayerArray": "0x2c8",
+    "PlayerArray": "0x288",
 
     "PersistentLevel": "0x40",
     "Levels": "0x1e8",
@@ -38,8 +38,8 @@
     "PawnPrivate": "0x328",
 
     "Mesh": "0x330",
-    "BoneArray": "0x628",
-    "BoneCache": "0x638",
+    "BoneArray": "0x650",
+    "BoneCache": "0x660",
 
     "ComponentToWorld": "0x1e0",
     "RelativeLocation": "0x140",
@@ -63,7 +63,7 @@
     "ProjectileSpeed": "0x238C",
     "ProjectileGravity": "0x23C0",
 
-    "HabaneroComponent": "0x948",
+    "HabaneroComponent": "0x908",
 
     "Spectators": "0xAB0",
     "SpectatorArray": "0x108",
