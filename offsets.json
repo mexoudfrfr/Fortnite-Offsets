@@ -1,16 +1,16 @@
 {
   "offsets": {
-    "UWorld": "0x1963D8F0",
-    "GEngine": "0x1963F198",
+    "UWorld": "0x1AD24020",
+    "GEngine": "0x1AD25A08",
     "ViewportClient": "0x78",
-    "GameViewport": "0xae0",
+    "GameViewport": "0xB70",
     "UWorldXorKey": "0xCF76574CULL",
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
     "PlayerCameraManager": "0x368",
     "AcknowledgedPawn": "0x358",
-    "PlayerState": "0x2d0",
+    "PlayerState": "0x290",
     "TeamIndex": "0x1211",
     "InitialSquadSize": "0x19f8",
     "bIsDying": "0x728",
@@ -18,19 +18,19 @@
     "bIsABot": "0x2ba",
 
     "Platform": "0x440",
-    "TargetedFortPawn": "0x1850",
-    "KillScore": "0x1228",
+    "TargetedFortPawn": "0x1630",
+    "KillScore": "0xF28",
     "RebootCount": "0x18ec",
-    "PlayerName": "0xa08",
-    "PlayerNamePrivate": "0x348",
+    "PlayerName": "0x9C8",
+    "PlayerNamePrivate": "0x308",
     "RankedProgress": "0xd8",
 
-    "OwningGameInstance": "0x240",
-    "GameState": "0x1c8",
+    "OwningGameInstance": "0x248",
+    "GameState": "0x1d0",
     "PlayerArray": "0x2c8",
 
     "PersistentLevel": "0x40",
-    "Levels": "0x1e0",
+    "Levels": "0x1e8",
     "SeasonLevelUIDisplay": "0x122c",
 
     "AActor": "0x148",
@@ -48,17 +48,17 @@
     "OverlappingBuildings": "0x1df8",
     "LastRenderTime": "0x330",
 
-    "CameraLocation": "0x178",
-    "CameraRotation": "0x188",
+    "CameraLocation": "0x170",
+    "CameraRotation": "0x180",
     "CameraFOV": "0x3B4",
 
     "CurrentVehicle": "0x2d70",
 
-    "CurrentWeapon": "0x990",
-    "WeaponData": "0x650",
+    "CurrentWeapon": "0x988",
+    "WeaponData": "0x5D8",
     "WeaponOffsetCorrection": "0x26f0",
     "AdditionalAimOffset": "0x2690",
-    "AmmoCount": "0x1214",
+    "AmmoCount": "0x10A4",
 
     "ProjectileSpeed": "0x238C",
     "ProjectileGravity": "0x23C0",
