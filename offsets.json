@@ -17,7 +17,7 @@
     "bIsDBNO": "0x839",
     "bIsABot": "0x2ba",
 
-    "Platform": "0x440",
+    "Platform": "0x400",
     "TargetedFortPawn": "0x1630",
     "KillScore": "0xF28",
     "RebootCount": "0x18ec",
@@ -33,7 +33,7 @@
     "Levels": "0x1e8",
     "SeasonLevelUIDisplay": "0x122c",
 
-    "AActor": "0x148",
+    "AActor": "0x188",
     "RootComponent": "0x1B0",
     "PawnPrivate": "0x2E8",
 
@@ -52,7 +52,7 @@
     "CameraRotation": "0x180",
     "CameraFOV": "0x374",
 
-    "CurrentVehicle": "0x2d70",
+    "CurrentVehicle": "0x2AC0",
 
     "CurrentWeapon": "0x988",
     "WeaponData": "0x5D8",
@@ -68,9 +68,9 @@
     "Spectators": "0xAB0",
     "SpectatorArray": "0x108",
 
-    "TargetSourceOffset": "0x1188",
-    "TargetSourceOffsetWhileTargeting": "0x11b8",
-    "TargetSourceOffsetWhileCrouched": "0x11a0",
+    "TargetSourceOffset": "0x1018",
+    "TargetSourceOffsetWhileTargeting": "0x1048",
+    "TargetSourceOffsetWhileCrouched": "0x1030",
     "bTraceThroughWorld": "0x116d",
 
     "Tier": "0xaa",
