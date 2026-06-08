@@ -8,11 +8,11 @@
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
-    "PlayerCameraManager": "0x368",
+    "PlayerCameraManager": "0x328",
     "AcknowledgedPawn": "0x318",
     "PlayerState": "0x290",
     "TeamIndex": "0xf11",
-    "InitialSquadSize": "0x19f8",
+    "InitialSquadSize": "0x16B8",
     "bIsDying": "0x710",
     "bIsDBNO": "0x839",
     "bIsABot": "0x27a",
@@ -37,7 +37,7 @@
     "RootComponent": "0x1b0",
     "PawnPrivate": "0x2e8",
 
-    "Mesh": "0x2f0",
+    "Mesh": "0x270",
     "BoneArray": "0x650",
     "BoneCache": "0x660",
     "ActiveTransforms": "0x68",
@@ -46,33 +46,33 @@
     "RelativeLocation": "0x140",
     "RelativeRotation": "0x158",
     "ComponentVelocity": "0x188",
-    "OverlappingBuildings": "0x1c08",
+    "OverlappingBuildings": "0x1c18",
     "LastRenderTime": "0x330",
 
     "CameraLocation": "0x170",
     "CameraRotation": "0x180",
-    "CameraFOV": "0x374",
+    "CameraFOV": "0x284",
 
     "CurrentVehicle": "0x2ac0",
 
-    "CurrentWeapon": "0x988",
-    "WeaponData": "0x5d8",
+    "CurrentWeapon": "0x450",
+    "WeaponData": "0x600",
     "WeaponOffsetCorrection": "0x4a8",
     "AdditionalAimOffset": "0x21d0",
-    "AmmoCount": "0x10a4",
+    "AmmoCount": "0x1114",
 
     "ProjectileSpeed": "0x238c",
     "ProjectileGravity": "0x158",
 
     "HabaneroComponent": "0x908",
 
-    "Spectators": "0xAb0",
+    "Spectators": "0xab0",
     "SpectatorArray": "0x108",
 
-    "TargetSourceOffset": "0x1018",
-    "TargetSourceOffsetWhileTargeting": "0x1048",
-    "TargetSourceOffsetWhileCrouched": "0x1030",
-    "bTraceThroughWorld": "0xff9",
+    "TargetSourceOffset": "0x1088",
+    "TargetSourceOffsetWhileTargeting": "0x10b8",
+    "TargetSourceOffsetWhileCrouched": "0x10a0",
+    "bTraceThroughWorld": "0x1069",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
