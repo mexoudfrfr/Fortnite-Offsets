@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x1ad24020",
-    "GEngine": "0x1ad25a08",
+    "UWorld": "0x1a489460",
+    "GEngine": "0x1a48ae48",
     "ViewportClient": "0x78",
     "GameViewport": "0xb70",
     "UWorldXorKey": "0xCF76574CULL",
