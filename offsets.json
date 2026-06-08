@@ -29,7 +29,7 @@
     "GameState": "0x1d0",
     "PlayerArray": "0x288",
 
-    "PersistentLevel": "0x38",
+    "PersistentLevel": "0x40",
     "Levels": "0x1e8",
     "SeasonLevelUIDisplay": "0xf2c",
 
@@ -37,7 +37,7 @@
     "RootComponent": "0x1b0",
     "PawnPrivate": "0x2e8",
 
-    "Mesh": "0x270",
+    "Mesh": "0x2f0",
     "BoneArray": "0x650",
     "BoneCache": "0x660",
     "ActiveTransforms": "0x68",
@@ -55,7 +55,7 @@
 
     "CurrentVehicle": "0x2ac0",
 
-    "CurrentWeapon": "0x450",
+    "CurrentWeapon": "0x998",
     "WeaponData": "0x600",
     "WeaponOffsetCorrection": "0x4a8",
     "AdditionalAimOffset": "0x21d0",
