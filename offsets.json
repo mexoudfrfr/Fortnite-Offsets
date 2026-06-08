@@ -51,7 +51,7 @@
 
     "CameraLocation": "0x178",
     "CameraRotation": "0x188",
-    "CameraFOV": "0x284",
+    "CameraFOV": "0x374",
 
     "CurrentVehicle": "0x2ac0",
 
