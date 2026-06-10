@@ -1,6 +1,6 @@
 namespace offsets
 {
-    uintptr_t GEngine = 0x1a48ae48;
+    uintptr_t GEngine = 0x1a46de88;
     uintptr_t ViewportClient = 0x78;
     uintptr_t GameViewport = 0xb70;
 }
