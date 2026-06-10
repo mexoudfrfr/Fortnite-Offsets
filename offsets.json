@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x1a489460",
-    "GEngine": "0x1a48ae48",
+    "UWorld": "0x1a46c4a0",
+    "GEngine": "0x1a46de88",
     "ViewportClient": "0x78",
     "GameViewport": "0xb70",
     "UWorldXorKey": "0xCF76574CULL",
@@ -13,8 +13,8 @@
     "PlayerState": "0x290",
     "TeamIndex": "0xf11",
     "InitialSquadSize": "0x16B8",
-    "bIsDying": "0x710",
-    "bIsDBNO": "0x839",
+    "bIsDying": "0x720",
+    "bIsDBNO": "0x849",
     "bIsABot": "0x27a",
 
     "Platform": "0x400",
@@ -33,7 +33,7 @@
     "Levels": "0x1e8",
     "SeasonLevelUIDisplay": "0xf2c",
 
-    "AActor": "0x188",
+    "AActor": "0x38",
     "RootComponent": "0x1b0",
     "PawnPrivate": "0x2e8",
 
@@ -49,17 +49,17 @@
     "OverlappingBuildings": "0x1c18",
     "LastRenderTime": "0x330",
 
-    "CameraLocation": "0x178",
-    "CameraRotation": "0x188",
+    "CameraLocation": "0x180",
+    "CameraRotation": "0x190",
     "CameraFOV": "0x374",
 
-    "CurrentVehicle": "0x2ac0",
+    "CurrentVehicle": "0x2ad0",
 
     "CurrentWeapon": "0x998",
-    "WeaponData": "0x600",
+    "WeaponData": "0x5e8",
     "WeaponOffsetCorrection": "0x4a8",
     "AdditionalAimOffset": "0x21d0",
-    "AmmoCount": "0x1114",
+    "AmmoCount": "0x104c",
 
     "ProjectileSpeed": "0x238c",
     "ProjectileGravity": "0x158",
@@ -69,10 +69,10 @@
     "Spectators": "0xab0",
     "SpectatorArray": "0x108",
 
-    "TargetSourceOffset": "0x1088",
-    "TargetSourceOffsetWhileTargeting": "0x10b8",
-    "TargetSourceOffsetWhileCrouched": "0x10a0",
-    "bTraceThroughWorld": "0x1069",
+    "TargetSourceOffset": "0xfc0",
+    "TargetSourceOffsetWhileTargeting": "0xff0",
+    "TargetSourceOffsetWhileCrouched": "0xfd8",
+    "bTraceThroughWorld": "0xfa1",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
