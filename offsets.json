@@ -61,8 +61,8 @@
     "AdditionalAimOffset": "0x21d0",
     "AmmoCount": "0x104c",
 
-    "ProjectileSpeed": "0x238c",
-    "ProjectileGravity": "0x158",
+    "ProjectileSpeed": "0x1F64",
+    "ProjectileGravity": "0x1F68",
 
     "HabaneroComponent": "0x908",
 
