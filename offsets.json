@@ -26,7 +26,7 @@
     "RankedProgress": "0xd8",
 
     "OwningGameInstance": "0x250",
-    "GameState": "0x1d0",
+    "GameState": "0x1d8",
     "PlayerArray": "0x288",
 
     "PersistentLevel": "0x40",
@@ -49,8 +49,8 @@
     "OverlappingBuildings": "0x1c18",
     "LastRenderTime": "0x7e4",
 
-    "CameraLocation": "0x180",
-    "CameraRotation": "0x190",
+    "CameraLocation": "0x190",
+    "CameraRotation": "0x200",
     "CameraFOV": "0x374",
 
     "CurrentVehicle": "0x2ad0",
