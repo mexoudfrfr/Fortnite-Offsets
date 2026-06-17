@@ -30,10 +30,10 @@
     "PlayerArray": "0x288",
 
     "PersistentLevel": "0x40",
-    "Levels": "0x1e8",
+    "Levels": "0x1f0",
     "SeasonLevelUIDisplay": "0xf2c",
 
-    "AActor": "0x1f8",
+    "AActor": "0x38",
     "RootComponent": "0x1b0",
     "PawnPrivate": "0x2e8",
 
@@ -49,8 +49,8 @@
     "OverlappingBuildings": "0x1c18",
     "LastRenderTime": "0x7e4",
 
-    "CameraLocation": "0x190",
-    "CameraRotation": "0x200",
+    "CameraLocation": "0x180",
+    "CameraRotation": "0x190",
     "CameraFOV": "0x374",
 
     "CurrentVehicle": "0x2ad0",
