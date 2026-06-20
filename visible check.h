@@ -1,6 +1,6 @@
 namespace offsets
 {
-    uintptr_t CameraRotation = 0x200;
+    uintptr_t CameraRotation = 0x190;
     uintptr_t LastRenderTime = 0x7e4;
 }
 
