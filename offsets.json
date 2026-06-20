@@ -47,6 +47,8 @@
     "RelativeRotation": "0x158",
     "ComponentVelocity": "0x188",
     "OverlappingBuildings": "0x1c18",
+    "GlobalAnimRateScale": "0xa1c",
+    "CustomTimeDilation": "0x68",
     "LastRenderTime": "0x7e4",
 
     "CameraLocation": "0x180",
@@ -61,6 +63,7 @@
     "WeaponRecoilOffset": "0x2218",
     "AdditionalAimOffset": "0x21d0",
     "AmmoCount": "0x113c",
+    "bIsReloadingWeapon": "0x371",
 
     "ProjectileSpeed": "0x2664",
     "ProjectileGravity": "0x2668",
