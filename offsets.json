@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x1ae875a0",
-    "GEngine": "0x1ae88f88",
+    "UWorld": "0x19de3c10",
+    "GEngine": "0x19de55f8",
     "ViewportClient": "0x78",
     "GameViewport": "0xb70",
     "UWorldXorKey": "0xCF76574CULL",
@@ -20,17 +20,17 @@
     "Platform": "0x400",
     "TargetedFortPawn": "0x1630",
     "KillScore": "0xf28",
-    "RebootCount": "0x18ec",
+    "RebootCount": "0x15ac",
     "PlayerName": "0x9C8",
     "PlayerNamePrivate": "0x308",
     "RankedProgress": "0xd8",
 
-    "OwningGameInstance": "0x250",
-    "GameState": "0x1d8",
+    "OwningGameInstance": "0x248",
+    "GameState": "0x1d0",
     "PlayerArray": "0x288",
 
-    "PersistentLevel": "0x40",
-    "Levels": "0x1f0",
+    "PersistentLevel": "0x38",
+    "Levels": "0x1e8",
     "SeasonLevelUIDisplay": "0xf2c",
 
     "AActor": "0x38",
@@ -46,37 +46,37 @@
     "RelativeLocation": "0x140",
     "RelativeRotation": "0x158",
     "ComponentVelocity": "0x188",
-    "OverlappingBuildings": "0x1c18",
-    "GlobalAnimRateScale": "0xa1c",
+    "OverlappingBuildings": "0x1c28",
+    "GlobalAnimRateScale": "0xa40",
     "CustomTimeDilation": "0x68",
-    "LastRenderTime": "0x2e8",
+    "LastRenderTime": "0x338",
 
-    "CameraLocation": "0x180",
-    "CameraRotation": "0x190",
+    "CameraLocation": "0x178",
+    "CameraRotation": "0x188",
     "CameraFOV": "0x374",
 
-    "CurrentVehicle": "0x2ad0",
+    "CurrentVehicle": "0x2ae8",
 
     "CurrentWeapon": "0x998",
-    "WeaponData": "0x698",
-    "WeaponOffsetCorrection": "0x4a8",
+    "WeaponData": "0x630",
+    "WeaponOffsetCorrection": "0x2230",
     "WeaponRecoilOffset": "0x2218",
     "AdditionalAimOffset": "0x21d0",
-    "AmmoCount": "0x113c",
-    "bIsReloadingWeapon": "0x371",
+    "AmmoCount": "0x10a4",
+    "bIsReloadingWeapon": "0x379",
 
     "ProjectileSpeed": "0x2664",
     "ProjectileGravity": "0x2668",
 
     "HabaneroComponent": "0x908",
 
-    "Spectators": "0xab0",
-    "SpectatorArray": "0x108",
+    "Spectators": "0xa70",
+    "SpectatorArray": "0x48",
 
-    "TargetSourceOffset": "0x10b0",
-    "TargetSourceOffsetWhileTargeting": "0x10e0",
-    "TargetSourceOffsetWhileCrouched": "0x10c8",
-    "bTraceThroughWorld": "0x1091",
+    "TargetSourceOffset": "0x1018",
+    "TargetSourceOffsetWhileTargeting": "0x1048",
+    "TargetSourceOffsetWhileCrouched": "0x1030",
+    "bTraceThroughWorld": "0xff9",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
