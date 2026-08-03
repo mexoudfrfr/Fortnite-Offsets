@@ -76,7 +76,7 @@
     "TargetSourceOffset": "0x1018",
     "TargetSourceOffsetWhileTargeting": "0x1048",
     "TargetSourceOffsetWhileCrouched": "0x1030",
-    "bTraceThroughWorld": "0x4d8",
+    "bTraceThroughWorld": "0x0ffd",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
