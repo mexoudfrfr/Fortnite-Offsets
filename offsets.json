@@ -1,1 +1,84 @@
+{
+  "offsets": {
+    "UWorld": "0x1a6536b0",
+    "GEngine": "0x1a655088",
+    "ViewportClient": "0x78",
+    "GameViewport": "0xb70",
+    "UWorldXorKey": "0xCF76574CULL",
 
+    "LocalPlayers": "0x38",
+    "PlayerController": "0x30",
+    "PlayerCameraManager": "0x294",
+    "AcknowledgedPawn": "0x318",
+    "PlayerState": "0x290",
+    "TeamIndex": "0x44b",
+    "InitialSquadSize": "0x16d8",
+    "bIsDying": "0x720",
+    "bIsDBNO": "0x849",
+    "bIsABot": "0x27a",
+
+    "Platform": "0x400",
+    "TargetedFortPawn": "0x1660",
+    "KillScore": "0xf48",
+    "RebootCount": "0x15cc",
+    "PlayerName": "0x9e8",
+    "PlayerNamePrivate": "0x308",
+    "RankedProgress": "0xd8",
+
+    "OwningGameInstance": "0x240",
+    "GameState": "0x1c8",
+    "PlayerArray": "0x288",
+
+    "PersistentLevel": "0x40",
+    "Levels": "0x1e0",
+    "SeasonLevelUIDisplay": "0xf4c",
+
+    "AActor": "0xa8",
+    "RootComponent": "0x1b0",
+    "PawnPrivate": "0x2e8",
+
+    "Mesh": "0x2f0",
+    "BoneArray": "0x648",
+    "BoneCache": "0x658",
+    "ActiveTransforms": "0x68",
+
+    "ComponentToWorld": "0x1e0",
+    "RelativeLocation": "0x140",
+    "RelativeRotation": "0x158",
+    "ComponentVelocity": "0x188",
+    "OverlappingBuildings": "0x1c28",
+    "GlobalAnimRateScale": "0x9f0",
+    "CustomTimeDilation": "0x68",
+    "LastRenderTime": "0x338",
+
+    "CameraLocation": "0x170",
+    "CameraRotation": "0x180",
+    "CameraFOV": "0x374",
+
+    "CurrentVehicle": "0x2b00",
+
+    "CurrentWeapon": "0x998",
+    "WeaponData": "0x630",
+    "WeaponOffsetCorrection": "0x2260",
+    "WeaponRecoilOffset": "0x2248",
+    "AdditionalAimOffset": "0x2200",
+    "AmmoCount": "0x1114",
+    "bIsReloadingWeapon": "0x334",
+
+    "ProjectileSpeed": "0x1d38",
+    "ProjectileGravity": "0x1d3c",
+
+    "HabaneroComponent": "0x918",
+
+    "Spectators": "0xa90",
+    "SpectatorArray": "0x17e8",
+
+    "TargetSourceOffset": "0x1088",
+    "TargetSourceOffsetWhileTargeting": "0x10b8",
+    "TargetSourceOffsetWhileCrouched": "0x10a0",
+    "bTraceThroughWorld": "0x106a",
+
+    "Tier": "0xaa",
+    "ItemName": "0x38"
+  }
+}
