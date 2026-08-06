@@ -11,7 +11,7 @@
     "PlayerCameraManager": "0x294",
     "AcknowledgedPawn": "0x318",
     "PlayerState": "0x290",
-    "TeamIndex": "0x44b",
+    "TeamIndex": "0xf31",
     "InitialSquadSize": "0x16d8",
     "bIsDying": "0x720",
     "bIsDBNO": "0x849",
@@ -71,7 +71,7 @@
     "HabaneroComponent": "0x918",
 
     "Spectators": "0xa90",
-    "SpectatorArray": "0x17e8",
+    "SpectatorArray": "0x48",
 
     "TargetSourceOffset": "0x1088",
     "TargetSourceOffsetWhileTargeting": "0x10b8",
