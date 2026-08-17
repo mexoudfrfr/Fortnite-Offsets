@@ -4,7 +4,7 @@
     "GEngine": "0x1a655088",
     "ViewportClient": "0x78",
     "GameViewport": "0xb70",
-    "UWorldXorKey": "0xCF76574CULL",
+    "UWorldXorKey": "0xcf76574c",
 
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
@@ -31,7 +31,7 @@
 
     "PersistentLevel": "0x40",
     "Levels": "0x1e0",
-    "SeasonLevelUIDisplay": "0xf4c",
+    "SeasonLevelUIDisplay": "0xf2c",
 
     "AActor": "0xa8",
     "RootComponent": "0x1b0",
@@ -68,7 +68,7 @@
     "ProjectileSpeed": "0x1d38",
     "ProjectileGravity": "0x1d3c",
 
-    "HabaneroComponent": "0x918",
+    "HabaneroComponent": "0x908",
 
     "Spectators": "0xa90",
     "SpectatorArray": "0x48",
