@@ -13,8 +13,8 @@
     "PlayerState": "0x290",
     "TeamIndex": "0xf61",
     "InitialSquadSize": "0x1708",
-    "bIsDying": "0x720",
-    "bIsDBNO": "0x849",
+    "bIsDying": "0x728",
+    "bIsDBNO": "0x851",
     "bIsABot": "0x27a",
 
     "Platform": "0x400",
