@@ -1,7 +1,7 @@
 namespace offsets
 {
-    uintptr_t CameraRotation = 0x178;
-    uintptr_t LastRenderTime = 0x290;
+    uintptr_t CameraRotation = 0x180;
+    uintptr_t LastRenderTime = 0x338;
 }
 
 bool IsPlayerVisible(uintptr_t Mesh) 
