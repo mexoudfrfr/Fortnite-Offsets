@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x1b156318",
-    "GEngine": "0x1b157c88",
+    "UWorld": "0x1b315998",
+    "GEngine": "0x1b2e4db8",
     "ViewportClient": "0x78",
     "GameViewport": "0xb70",
     "UWorldXorKey": "0xcf76574c",
@@ -25,15 +25,15 @@
     "PlayerNamePrivate": "0x308",
     "RankedProgress": "0xd8",
 
-    "OwningGameInstance": "0x238",
-    "GameState": "0x1c0",
+    "OwningGameInstance": "0x248",
+    "GameState": "0x1d0",
     "PlayerArray": "0x288",
 
     "PersistentLevel": "0x38",
-    "Levels": "0x1d8",
+    "Levels": "0x1e8",
     "SeasonLevelUIDisplay": "0xf7c",
 
-    "AActor": "0x38",
+    "AActor": "0x210",
     "RootComponent": "0x1b0",
     "PawnPrivate": "0x2e8",
 
@@ -47,23 +47,23 @@
     "RelativeRotation": "0x158",
     "ComponentVelocity": "0x188",
     "OverlappingBuildings": "0x1cb8",
-    "GlobalAnimRateScale": "0xa20",
+    "GlobalAnimRateScale": "0xa74",
     "CustomTimeDilation": "0x68",
-    "LastRenderTime": "0x290",
+    "LastRenderTime": "0x338",
 
-    "CameraLocation": "0x168",
-    "CameraRotation": "0x178",
+    "CameraLocation": "0x170",
+    "CameraRotation": "0x180",
     "CameraFOV": "0x374",
 
-    "CurrentVehicle": "0x2b00",
+    "CurrentVehicle": "0x2c00",
 
     "CurrentWeapon": "0x9a0",
-    "WeaponData": "0x648",
+    "WeaponData": "0x608",
     "WeaponOffsetCorrection": "0x2340",
     "WeaponRecoilOffset": "0x2328",
     "AdditionalAimOffset": "0x22e0",
-    "AmmoCount": "0x11a0",
-    "bIsReloadingWeapon": "0x379",
+    "AmmoCount": "0x1140",
+    "bIsReloadingWeapon": "0x359",
 
     "ProjectileSpeed": "0x1d38",
     "ProjectileGravity": "0x1d3c",
@@ -73,9 +73,9 @@
     "Spectators": "0xac0",
     "SpectatorArray": "0x1810",
 
-    "TargetSourceOffset": "0x10d8",
-    "TargetSourceOffsetWhileTargeting": "0x1108",
-    "TargetSourceOffsetWhileCrouched": "0x10f0",
+    "TargetSourceOffset": "0x1078",
+    "TargetSourceOffsetWhileTargeting": "0x10a8",
+    "TargetSourceOffsetWhileCrouched": "0x1090",
     "bTraceThroughWorld": "0x10b9",
 
     "Tier": "0xaa",
