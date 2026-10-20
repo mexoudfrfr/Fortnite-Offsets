@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWorld": "0x1b1c2730",
-    "GEngine": "0x1b1d2c68",
+    "UWorld": "0x1bd9b9e8",
+    "GEngine": "0x1bd9d378",
     "ViewportClient": "0x78",
     "GameViewport": "0xb70",
     "UWorldXorKey": "0xcf76574c",
@@ -25,15 +25,15 @@
     "PlayerNamePrivate": "0x308",
     "RankedProgress": "0xd8",
 
-    "OwningGameInstance": "0x248",
-    "GameState": "0x1d0",
+    "OwningGameInstance": "0x250",
+    "GameState": "0x1d8",
     "PlayerArray": "0x288",
 
     "PersistentLevel": "0x38",
-    "Levels": "0x1e8",
+    "Levels": "0x1f0",
     "SeasonLevelUIDisplay": "0xf84",
 
-    "AActor": "0x200",
+    "AActor": "0x50",
     "RootComponent": "0x1b0",
     "PawnPrivate": "0x2e8",
 
@@ -49,20 +49,20 @@
     "OverlappingBuildings": "0x1ce8",
     "GlobalAnimRateScale": "0x9f0",
     "CustomTimeDilation": "0x68",
-    "LastRenderTime": "0x290",
+    "LastRenderTime": "0x2e0",
 
-    "CameraLocation": "0x170",
-    "CameraRotation": "0x180",
+    "CameraLocation": "0x178",
+    "CameraRotation": "0x188",
     "CameraFOV": "0x374",
 
     "CurrentVehicle": "0x2c30",
 
     "CurrentWeapon": "0x9d0",
-    "WeaponData": "0x6d0",
+    "WeaponData": "0x610",
     "WeaponOffsetCorrection": "0x2370",
     "WeaponRecoilOffset": "0x2358",
     "AdditionalAimOffset": "0x2310",
-    "AmmoCount": "0x11c0",
+    "AmmoCount": "0x10d8",
     "bIsReloadingWeapon": "0x379",
 
     "ProjectileSpeed": "0x210c",
@@ -71,12 +71,12 @@
     "HabaneroComponent": "0x918",
 
     "Spectators": "0xac0",
-    "SpectatorArray": "0x1838",
+    "SpectatorArray": "0x1850",
 
-    "TargetSourceOffset": "0x10f8",
-    "TargetSourceOffsetWhileTargeting": "0x1128",
-    "TargetSourceOffsetWhileCrouched": "0x1110",
-    "bTraceThroughWorld": "0x10d9",
+    "TargetSourceOffset": "0x1010",
+    "TargetSourceOffsetWhileTargeting": "0x1040",
+    "TargetSourceOffsetWhileCrouched": "0x1028",
+    "bTraceThroughWorld": "0xff1",
 
     "Tier": "0xaa",
     "ItemName": "0x38"
